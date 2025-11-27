@@ -1,6 +1,9 @@
 # Animated Eyes
 
-An interactive animated face with eyes that follow your cursor and respond to keyboard shortcuts.
+An interactive animated face with eyes that follow your cursor and respond to keyboard shortcuts. (This animated face originally lived in another project. I broke it out into its own repo because its fun and it’s easier to share and build on.)
+
+<img width="1434" height="690" alt="Screenshot 2025-11-26 at 10 37 11 PM" src="https://github.com/user-attachments/assets/8d59c2a0-756f-40bb-a85a-25f4db4c37f2" />
+
 
 ## Getting Started
 
